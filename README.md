@@ -26,6 +26,6 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felip00liveira&show_icons=true&theme=midnight-purple" alt="Felipe's GitHub stats" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Felip00liveira&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"=true alt="Felipe's GitHub stats" width="350" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felip00liveira&layout=compact&theme=midnight-purple" alt="Top Langs" width="380" />
 </div>
