@@ -26,4 +26,4 @@
 ## 📊 Stats
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felip00liveira&show_icons=true&theme=midnight-purple)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felip00liveira&layout=compact&theme=midnight-purple" alt="Top Langs" width="450" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felip00liveira&layout=compact&theme=midnight-purple" alt="Top Langs" width="500" />
