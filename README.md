@@ -26,3 +26,4 @@
 ## 📊 Stats
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felip00liveira&show_icons=true&theme=midnight-purple)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felip00liveira&theme=midnight-purple&show_border=false&include_all_commits=true&count_private=true&layout=compact)
